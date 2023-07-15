@@ -1,0 +1,104 @@
+body{
+    background: url(tower.jpeg) no-repeat ;
+    
+    background-size: cover;
+    background-attachment: fixed;
+
+    position: relative;
+    text-align: center;
+    
+}
+.first{
+    text-align: center;
+    font-size: 2pc;
+    font-style: normal;
+    width: 900px;
+    height: 50px ;
+    margin-top: 100px;
+    margin-left: 150px;
+    background-color:grey;
+    padding-top: 25px;
+    border-style: ridge;
+
+}
+
+.tesla1{
+    margin-top:  75px;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+}
+.God{
+    background-color: grey;
+    width: 600px;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 25px;
+    padding-bottom: 3px;
+    border-style: solid;
+}
+.about1{
+    background-color: grey;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.about2{
+    background-color: grey;
+    width: 900px;
+    margin-left: 150px;
+
+}
+.about{
+    border-style: solid;
+    background-color: lightgrey;
+    margin: 50px;
+    text-align: left;
+}
+.awards{
+    text-align: left;
+    margin: 30px;
+    border-style: solid;
+    background-color: lightgray;
+    margin-bottom: 30px;
+   
+}
+
+.discovery{
+    margin: 50px;
+
+    
+}
+.discovery1{
+    border-style: solid;
+    margin-top: 100px;
+
+}
+.left img {
+    width: auto;
+    height: 12rem;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    margin-top: 25px;
+    opacity: 0.8;
+    border-style: solid;
+
+}
+.right{
+    background-color:lightgrey;
+    width: 500px;
+    margin-left: 300px;
+    border-style: solid;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    
+}
+.quote{
+    text-align: left;
+    border-style: solid;
+    margin: 50px;
+    background-color: lightgrey;
+}
+
+
